@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello from GREEN nginx!
+          Hello from BLACK nginx!
         </p>
         <a
           className="App-link"
